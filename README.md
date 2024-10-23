@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a student in an university learning about Jupyter Notebook and more specifically learning how to code with Phython!
 
 <!--
 **Patrisha13/Patrisha13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
